@@ -1,0 +1,12 @@
+p {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 60px;
+}
+h1 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 200px;
+}
+/* I was able to figure out how to create a gradient background for my website by using W3Schools resources on the notation to create the gradient and then I used Illustrator to pick my colors. I wasn't sure if having three colors would work in the code but it did perfectly */
+body {
+  background: linear-gradient(#e6abe2, #29abe2, #1b1464);
+}
